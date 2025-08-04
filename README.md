@@ -1,4 +1,4 @@
-# Auth for GenAI
+  # Auth for GenAI
 
 [Auth for GenAI](http://auth0.com/ai) provides a robust security framework designed specifically for GenAI applications. It ensures both secure user authentication and fine-grained access control for AI agents, granting them access to only authorized data.
 
